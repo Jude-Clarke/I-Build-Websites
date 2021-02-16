@@ -22,6 +22,10 @@
 .nav-bar a {
   text-decoration: none;
   color: white;
+  cursor: pointer;
+}
+.nav-bar a:hover {
+  color: #ffc85c;
 }
 
 .nav-bar li {
@@ -82,9 +86,7 @@
   margin: 100px auto;
   width: 70%;
 }
-.game {
-  width: 100%;
-}
+
 .text p {
   margin-top: 20px;
   line-height: 40px;
