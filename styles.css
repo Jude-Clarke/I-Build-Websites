@@ -86,7 +86,9 @@
   margin: 100px auto;
   width: 70%;
 }
-
+iframe {
+  margin: 50px auto;
+}
 .text p {
   margin-top: 20px;
   line-height: 40px;
