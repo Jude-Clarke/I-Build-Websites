@@ -82,6 +82,9 @@
   margin: 100px auto;
   width: 70%;
 }
+.game {
+  width: 100%;
+}
 .text p {
   margin-top: 20px;
   line-height: 40px;
