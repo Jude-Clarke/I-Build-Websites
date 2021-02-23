@@ -3,7 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+p {
+  font-family: "Open Sans", serif;
+}
 /* Nav-bar */
 .nav-bar {
   height: 60px;
