@@ -87,10 +87,10 @@
   width: 70%;
 }
 .description p {
-  text-indent: none !important;
+  text-indent: 0 !important;
 }
-iframe {
-  margin: 50px auto;
+.game {
+  margin: 50 auto;
 }
 .text p {
   margin-top: 20px;
