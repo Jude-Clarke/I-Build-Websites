@@ -90,16 +90,19 @@ p {
 .container {
   margin: 100px auto;
   width: 70%;
+  text-align: center;
 }
 .text {
-  margin 50px 0 20px;
+  margin: 100px auto 20px;
+  text-align: left;
+  width: 60%;
 }
 .description p {
   text-indent: 0 !important;
   line-height: 20px !important;
 }
 .game {
-  margin: 50 auto;
+  margin: 20px auto 50px;
 }
 .text p {
   margin-top: 20px;
