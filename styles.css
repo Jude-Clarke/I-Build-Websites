@@ -87,7 +87,7 @@
   width: 70%;
 }
 .description p {
-  text-indent: none;
+  text-indent: none !important;
 }
 iframe {
   margin: 50px auto;
