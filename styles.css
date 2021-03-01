@@ -96,6 +96,8 @@ p {
 .text {
   margin: 100px auto 20px;
   text-align: left;
+}
+.projects .text {
   width: 50%;
 }
 .description p {
